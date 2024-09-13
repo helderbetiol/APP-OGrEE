@@ -1,0 +1,1 @@
+ /Users/helderbetiol/Documents/GitHub/APP-OGrEE/.dart_tool/flutter_build/5e5945e81a133ef6ec8a4aecf0c05eb0/native_assets.yaml: 
